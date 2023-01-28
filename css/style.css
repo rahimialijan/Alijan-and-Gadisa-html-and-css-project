@@ -1,0 +1,25 @@
+@media (max-width: 600px) {
+    #navbar {
+      padding: 0rem 1rem;
+      justify-content: center;
+    }
+
+}
+#welcome-section {
+    display: flex;
+    width: 100%;
+    height:100vh;
+}
+#navbar {
+    display: flex;
+    top:0;
+    left: 0;
+    width: 100%;
+    position: fixed;
+    background-color: brown;
+    
+}
+.Welcome{
+    top: 100px;
+ height: 100px;
+}
